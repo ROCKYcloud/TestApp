@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="action_is_toast">Action is Toast!</string>
+</resources>
